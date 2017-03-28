@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpg_unity.Plugins", "rpg_unity.Plugins.csproj", "{9B08E213-A6AA-8087-271F-94DF692EC3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpg_unity.Editor.Plugins", "rpg_unity.Editor.Plugins.csproj", "{547A6F9C-5B08-0812-3A46-2F98C80C0CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B08E213-A6AA-8087-271F-94DF692EC3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B08E213-A6AA-8087-271F-94DF692EC3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B08E213-A6AA-8087-271F-94DF692EC3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B08E213-A6AA-8087-271F-94DF692EC3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547A6F9C-5B08-0812-3A46-2F98C80C0CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547A6F9C-5B08-0812-3A46-2F98C80C0CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547A6F9C-5B08-0812-3A46-2F98C80C0CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547A6F9C-5B08-0812-3A46-2F98C80C0CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
